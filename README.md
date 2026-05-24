@@ -6,11 +6,11 @@ Aplikasi Android menu dan profil restoran fiktif, dibangun dengan **Jetpack Comp
 
 | Home                                | Menu                          | Detail Menu                       |
 | ----------------------------------- | ----------------------------- | --------------------------------- |
-| ![Home](screenshots/home_light.png) | ![Menu](screenshots/menu.png) | ![Detail](screenshots/detail.png) |
+| ![Home](HomeScreen.png) | ![Menu](MenuScreen.png) | ![Detail](MenuDetailScreen.png) |
 
-| Profil                             | Edit Profil                           | Dark Mode                          |
-| ---------------------------------- | ------------------------------------- | ---------------------------------- |
-| ![Profil](screenshots/profile.png) | ![Edit](screenshots/edit_profile.png) | ![Dark](screenshots/home_dark.png) |
+| Profil                             | Edit Profil                           |
+| ---------------------------------- | ------------------------------------- |
+| ![Profil](ProfileScreen.png) | ![Edit](EditProfileScreen.png)
 
 ## Fitur
 
