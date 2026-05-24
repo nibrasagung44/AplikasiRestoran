@@ -6,7 +6,7 @@ Aplikasi Android menu dan profil restoran fiktif, dibangun dengan **Jetpack Comp
 
 | Home                                | Menu                          | Detail Menu                       |
 | ----------------------------------- | ----------------------------- | --------------------------------- |
-| ![Home](HomeScreen.png) | ![Menu](MenuScreen.png) | ![Detail](MenuDetailScreen.png) |
+| ![Home](HomeScreen.png) | ![Menu](MenuScreen.png) | ![Detail](DetailMenuScreen.png) |
 
 | Profil                             | Edit Profil                           |
 | ---------------------------------- | ------------------------------------- |
